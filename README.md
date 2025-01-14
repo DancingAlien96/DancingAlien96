@@ -1,36 +1,31 @@
 ## Hi there 👋
 
 Welcome to my GitHub profile! I'm passionate about technology and enjoy working on various projects. Here's a bit more about me:
-
+<!--  
 ### 🔭 Currently working on:
 - Developing full-stack applications using **Node.js** and **React**.
-- Exploring machine learning and data science with **Python** and **R**.
+- Exploring machine learning and data science with **Python** and **R**.-->
 
 ### 🌱 Currently learning:
-- Diving deeper into **Docker** and **Kubernetes** for containerization and orchestration.
-- Learning about **Cloud computing** and **DevOps**.
+- micro services with node js
+- Docker
 
 ### 👯 Looking to collaborate on:
 - Open-source projects related to **AI** and **automation**.
 - Backend development projects with a focus on **Node.js** and **Express**.
 
-### 🤔 Looking for help with:
-- Optimizing code for better performance.
-- Advanced **SQL** queries and **database design**.
-
 ### 💬 Ask me about:
-- **Node.js**, **JavaScript**, and **Python**.
-- Best practices in backend development.
+- **Node.js**, **JavaScript**, **Python**, **java**, **assembly**, and **dart**.
+- Best practices in backend development
+- I'm in the last year of my career, my career is computer system engineering in the only public university of my country Guatemala(San Carlos)
 
 ### 📫 How to reach me:
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: cristoferperez3@gmail.com
+- LinkedIn: www.linkedin.com/in/cristofer-perez-8b4b67140
 
-### 😄 Pronouns:
-- He/Him
 
 ### ⚡ Fun fact:
-- I love hiking and exploring new places whenever I get the chance!
+- I love to do friends whenever I get the chance!
 
 ---
 
