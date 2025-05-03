@@ -13,10 +13,11 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ### 👯 Looking to collaborate on:
 - Open-source projects related to **AI** and **automation**.
 - Backend development projects with a focus on **Node.js** and **Express**.
+- Frontend development projects with a focus on angular and flutter (typescript and dart) 
 
 ### 💬 Ask me about:
 - **Node.js**, **JavaScript**, **Python**, **java**, **assembly**, and **dart**.
-- Best practices in backend development
+- Best practices in frontend and backend
 - I'm in the last year of my career, my career is computer system engineering in the only public university of my country Guatemala(San Carlos)
 
 ### 📫 How to reach me:
