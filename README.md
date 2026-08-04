@@ -1,33 +1,75 @@
-## Hi there 👋
+# Hi there 👋
 
-Welcome to my GitHub profile! I'm passionate about technology and enjoy working on various projects. Here's a bit more about me:
-<!--  
-### 🔭 Currently working on:
-- Developing full-stack applications using **Node.js** and **React**.
-- Exploring machine learning and data science with **Python** and **R**.-->
+Welcome to my GitHub profile!
 
-### 🌱 Currently learning:
-- micro services with node js
+I'm a passionate Full-Stack Developer who enjoys building scalable applications, learning new technologies, and contributing to projects that solve real-world problems. I love exploring software architecture, automation, and modern development practices.
+
+<!--
+## 🚀 Currently Working On
+- Building full-stack web applications.
+- Designing scalable backend architectures.
+- Experimenting with AI-powered solutions.
+-->
+
+## 🌱 Currently Learning
+- Microservices with Node.js
+- Docker & Containerization
+- Software Architecture
+- Cloud Infrastructure
+
+## 🤝 Looking to Collaborate On
+- Open-source projects
+- AI and automation solutions
+- Backend development with Node.js & Express
+- Frontend development with Angular
+- Cross-platform applications with Flutter
+
+## 💬 Ask Me About
+- Node.js
+- JavaScript & TypeScript
+- Python
+- Java
+- Dart & Flutter
+- Assembly Language
+- REST APIs
+- Backend Architecture
+- Frontend Best Practices
+- Database Design
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- TypeScript
+- Python
+- Java
+- Dart
+- Assembly
+
+**Frontend**
+- Angular
+- Flutter
+
+**Backend**
+- Node.js
+- Express.js
+
+**Tools & Technologies**
 - Docker
+- Git & GitHub
+- REST APIs
+- MongoDB
+- SQL Databases
 
-### 👯 Looking to collaborate on:
-- Open-source projects related to **AI** and **automation**.
-- Backend development projects with a focus on **Node.js** and **Express**.
-- Frontend development projects with a focus on angular and flutter (typescript and dart) 
+## 📫 Connect With Me
 
-### 💬 Ask me about:
-- **Node.js**, **JavaScript**, **Python**, **java**, **assembly**, and **dart**.
-- Best practices in frontend and backend
-- I'm in the last year of my career, my career is computer system engineering in the only public university of my country Guatemala(San Carlos)
+- 📧 Email: **cristoferperez3@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/cristofer-perez-8b4b67140**
 
-### 📫 How to reach me:
-- Email: cristoferperez3@gmail.com
-- LinkedIn: www.linkedin.com/in/cristofer-perez-8b4b67140
+## ⚡ Fun Fact
 
-
-### ⚡ Fun fact:
-- I love to do friends whenever I get the chance!
+I enjoy meeting new people, sharing knowledge, and collaborating on interesting projects.
 
 ---
 
-Feel free to browse through my repositories and let me know if you'd like to collaborate or discuss any ideas!
+⭐ Feel free to explore my repositories. If you're interested in collaborating or discussing new ideas, don't hesitate to reach out!
